@@ -1,0 +1,10 @@
+.delete-button {
+  background-color: transparent;
+  border: 0px;
+  outline: none;
+  cursor: pointer;
+}
+.stars {
+  width: 100px;
+  margin-top: 10px;
+}
